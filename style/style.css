@@ -35,6 +35,15 @@ hr {
     border-radius: 3px;
 }
 
+ul {
+    list-style-position: inside;
+}
+
+ul ul {
+    margin-left: 20px;
+    list-style-type: disclosure-closed;
+}
+
 h1,
 h2,
 h3,
